@@ -22,3 +22,16 @@ Senior UI/IX Designer
 
 UI/IX Designer
 <br>2016-2018
+
+### Education
+Javascript Fundamentals
+<br>https://academind.com/
+
+The Creative HTML5 & CSS3 Course
+<br>https://developedbyed.com/p/the-creative-html5-css3-course
+
+The Creative Javascript Course
+<br>https://developedbyed.com/p/the-creative-javascript-course
+
+### English
+*Fluent*
